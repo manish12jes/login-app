@@ -1,0 +1,14 @@
+jwt:
+  access-token:
+    name: "accessToken"
+    secret: "hsf!ie42sda22)0"
+  refresh-token:
+    name: "refreshToken"
+    secret: "hsf!ie4(-!)sda22)0"
+database:
+  mysql:
+    host: "localhost"
+    port: "3306"
+    user: "root"
+    name: "aropay"
+    password: ""
